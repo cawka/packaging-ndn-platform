@@ -1,0 +1,24 @@
+[submodule "ndnx"]
+	path = ndnx
+	url = https://github.com/cawka/packaging-ndnx
+[submodule "ndn-cpp"]
+	path = ndn-cpp
+	url = https://github.com/cawka/packaging-ndn-cpp
+[submodule "ndn.cxx"]
+	path = ndn.cxx
+	url = https://github.com/cawka/packaging-ndn.cxx
+[submodule "apscheduler"]
+	path = apscheduler
+	url = https://github.com/cawka/packaging-apscheduler
+[submodule "ndn.cxx-security-tools"]
+	path = ndn.cxx-security-tools
+	url = https://github.com/cawka/packaging-ndn.cxx-security-tools
+[submodule "NDNx-Control-Center"]
+	path = NDNx-Control-Center
+	url = https://github.com/cawka/packaging-NDNx-Control-Center
+[submodule "PyNDN"]
+	path = PyNDN
+	url = https://github.com/cawka/packaging-PyNDN
+[submodule "PyNDN-dev"]
+	path = PyNDN-dev
+	url = https://github.com/cawka/packaging-PyNDN-dev
