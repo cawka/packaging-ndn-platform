@@ -22,3 +22,6 @@
 [submodule "PyNDN-dev"]
 	path = PyNDN-dev
 	url = https://github.com/cawka/packaging-PyNDN-dev
+[submodule "ndn-platform"]
+	path = ndn-platform
+	url = https://github.com/cawka/packaging-ndn-platform
