@@ -1,11 +1,11 @@
-Source: ndnx-platform
+Source: ndn-platform
 Priority: optional
 Build-Depends: debhelper (>= 7.0.8)
 Maintainer: Alexander Afanasyev <alexander.afanasyev@ucla.edu>
 Standards-Version: 3.9.2
 Section: metapackages
 
-Package: ndnx-platform
+Package: ndn-platform
 Architecture: any
 Depends: ${misc:Depends}, ndnx, 
  ndn-cpp, ndn.cxx, ndn.cxx-security-tools,
@@ -13,7 +13,7 @@ Depends: ${misc:Depends}, ndnx,
  ndnx-control-center
 Description: NDNx platform for clients
 
-Package: ndnx-platform-server
+Package: ndn-platform-server
 Section: net
 Architecture: any
 Depends: ${misc:Depends}, ndnx, ndnx-repo,
@@ -21,7 +21,7 @@ Depends: ${misc:Depends}, ndnx, ndnx-repo,
  python-ndn, python-ndn-exp
 Description: NDNx platform for servers
 
-Package: ndnx-platform-dev
+Package: ndn-platform-dev
 Section: net
 Architecture: any
 Depends: ${misc:Depends}, ndnx-dev,
