@@ -22,3 +22,9 @@
 [submodule "ndn-platform"]
 	path = ndn-platform
 	url = https://github.com/cawka/packaging-ndn-platform
+[submodule "ChronoSync"]
+	path = ChronoSync
+	url = https://github.com/cawka/packaging-ChronoSync
+[submodule "ChronoChat"]
+	path = ChronoChat
+	url = https://github.com/cawka/packaging-ChronoChat
