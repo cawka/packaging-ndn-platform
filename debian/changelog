@@ -1,3 +1,10 @@
+ndnx-platform (0.2-1ppa1~1saucy1) saucy; urgency=low
+
+  * Adding submodules for all packaged software
+  * Making platform release for `saucy'
+
+ -- Alexander Afanasyev <alexander.afanasyev@ucla.edu>  Thu, 14 Nov 2013 11:52:55 -0800
+
 ndnx-platform (0.2-1ppa2~precise1) precise; urgency=low
 
   * Initial release

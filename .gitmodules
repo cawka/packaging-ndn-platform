@@ -7,9 +7,6 @@
 [submodule "ndn.cxx"]
 	path = ndn.cxx
 	url = https://github.com/cawka/packaging-ndn.cxx
-[submodule "apscheduler"]
-	path = apscheduler
-	url = https://github.com/cawka/packaging-apscheduler
 [submodule "ndn.cxx-security-tools"]
 	path = ndn.cxx-security-tools
 	url = https://github.com/cawka/packaging-ndn.cxx-security-tools
