@@ -1,3 +1,9 @@
+ndn-platform (0.2-1ppa2~1saucy1) saucy; urgency=low
+
+  * Making saucy release
+
+ -- Alexander Afanasyev <alexander.afanasyev@ucla.edu>  Thu, 14 Nov 2013 13:27:36 -0800
+
 ndn-platform (0.2-1ppa1~precise1) precise; urgency=low
 
   * Initial release
