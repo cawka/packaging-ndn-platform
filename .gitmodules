@@ -28,3 +28,12 @@
 [submodule "ChronoChat"]
 	path = ChronoChat
 	url = https://github.com/cawka/packaging-ChronoChat
+[submodule "ndn-cpp-dev"]
+	path = ndn-cpp-dev
+	url = https://github.com/cawka/packaging-ndn-cpp-dev.git
+[submodule "ndnd-tlv"]
+	path = ndnd-tlv
+	url = https://github.com/cawka/packaging-ndnd-tlv.git
+[submodule "ndn-cpp-security-tools"]
+	path = ndn-cpp-security-tools
+	url = https://github.com/cawka/packaging-ndn-cpp-security-tools.git
